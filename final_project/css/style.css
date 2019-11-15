@@ -1,0 +1,26 @@
+body {
+  background-color: #ffffff;
+  color: #6699ff;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: inherit;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border:3px solid black;
+  background-color: #ffffff;
+  padding: 30px 0;
+  margin-bottom: 60px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-style: oblique;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+#first
